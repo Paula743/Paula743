@@ -3,7 +3,7 @@
 I'm **María Paula** – currently learning frontend development with **HTML**, **CSS**, and **JavaScript**!
 
 ## About Me
-I’m passionate about a variety of activities:
+I’m passionate about:
 
 - 📚 **Reading**
 - 🧵 **Embroidery and Sewing**
