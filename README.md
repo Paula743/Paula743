@@ -22,7 +22,7 @@ In my free time, I enjoy:
 - 💻 **Learning to Program**
 - 👩‍🍳 🍽️ **Cooking and Trying New Recipes**
 
-"Happy to share my learning journey with you!"
+Happy to share my learning journey with you!
 
 ![Disney Pixar GIF](https://media1.giphy.com/media/xUUXMzfbUlKiQ/giphy.gif)
 
