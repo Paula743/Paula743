@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**Paula743/Paula743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **María Paula** – currently learning frontend development with **HTML**, **CSS**, and **JavaScript**!
 
-Here are some ideas to get you started:
+## About Me
+I’m passionate about a variety of activities:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 **Reading**
+- 🧵 **Embroidery and Sewing**
+- 🏊 **Swimming**
+- ➗ **Mathematics**
+- 🧘 **Yoga**
+
+## Hobbies
+In my free time, I enjoy:
+
+- 🇫🇷 🗼 **Learning French**
+- 💻 **Learning to Program**
+- 👩‍🍳 🍽️ **Cooking and Trying New Recipes**
+
+"Happy to share my learning journey with you!"
