@@ -23,5 +23,5 @@ In my free time, I enjoy:
 - 👩‍🍳 🍽️ **Cooking and Trying New Recipes**
 
 "Happy to share my learning journey with you!"
-![Disney Pixar GIF](https://github.com/user-attachments/assets/86367a0b-e96f-49d5-b6ba-8ca06edb8038)
+![Disney Pixar GIF](https://media1.giphy.com/media/xUUXMzfbUlKiQ/giphy.gif)
 
