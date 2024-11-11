@@ -8,13 +8,14 @@ I’m passionate about a variety of activities:
 - 📚 **Reading**
 - 🧵 **Embroidery and Sewing**
 - 🏊 **Swimming**
+ - 🧘 **Yoga**
 - ➗ **Mathematics**
-- 🧘 **Yoga**
+
 
 ## Hobbies
 In my free time, I enjoy:
 
-- 🇫🇷 🗼 **Learning French**
+- 🗼 **Learning French**
 - 💻 **Learning to Program**
 - 👩‍🍳 🍽️ **Cooking and Trying New Recipes**
 
