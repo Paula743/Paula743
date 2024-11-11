@@ -1,8 +1,8 @@
 # Hello! 👋
 
+## Introducing myself
 I'm **María Paula** – currently learning frontend development with **HTML**, **CSS**, and **JavaScript**!
 
-## Introducing myself
 ![Disney Pixar GIF](https://media.giphy.com/media/rWRAw6cbaWWDS/giphy.gif)
 
 ## About Me
